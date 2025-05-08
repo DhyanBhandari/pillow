@@ -1,0 +1,65 @@
+patient1.txt
+Filename: HEARTBEAT_TEST/patient1.txt
+['Heart_Beat', 'Left_Sleep', 'Mid_Sleep', 'Right_Sleep']
+['1', '1', '0', '0']
+HeartBeat_TEST: Date- Tue Apr 13 17:40:56 2021 detected ['Danger-LeftSleep']
+patient2.txt
+Filename: HEARTBEAT_TEST/patient2.txt
+['Heart_Beat', 'Left_Sleep', 'Mid_Sleep', 'Right_Sleep']
+['70', '1', '0', '0']
+HeartBeat_TEST: Date- Tue Apr 13 17:41:59 2021 detected ['Normal-LeftSleep']
+patient3.txt
+Filename: HEARTBEAT_TEST/patient3.txt
+['Heart_Beat', 'Left_Sleep', 'Mid_Sleep', 'Right_Sleep']
+['110', '150', '0', '0']
+HeartBeat_TEST: Date- Tue Apr 13 17:42:25 2021 detected ['Snore-LeftSleep']
+patient4.txt
+Filename: HEARTBEAT_TEST/patient4.txt
+['Heart_Beat', 'Left_Sleep', 'Mid_Sleep', 'Right_Sleep']
+['11', '0', '50', '0']
+HeartBeat_TEST: Date- Tue Apr 13 17:42:26 2021 detected ['Danger-MidSleep']
+patient5.txt
+Filename: HEARTBEAT_TEST/patient5.txt
+['Heart_Beat', 'Left_Sleep', 'Mid_Sleep', 'Right_Sleep']
+['88', '0', '100', '0']
+HeartBeat_TEST: Date- Tue Apr 13 17:42:27 2021 detected ['Normal-MidSleep']
+patient6.txt
+Filename: HEARTBEAT_TEST/patient6.txt
+['Heart_Beat', 'Left_Sleep', 'Mid_Sleep', 'Right_Sleep']
+['111', '0', '10', '0']
+HeartBeat_TEST: Date- Tue Apr 13 17:42:28 2021 detected ['Snore-MidSleep']
+patient7.txt
+Filename: HEARTBEAT_TEST/patient7.txt
+['Heart_Beat', 'Left_Sleep', 'Mid_Sleep', 'Right_Sleep']
+['33', '0', '0', '69']
+HeartBeat_TEST: Date- Tue Apr 13 17:42:29 2021 detected ['Danger-RightSleep']
+patient8.txt
+Filename: HEARTBEAT_TEST/patient8.txt
+['Heart_Beat', 'Left_Sleep', 'Mid_Sleep', 'Right_Sleep']
+['77', '0', '0', '144']
+HeartBeat_TEST: Date- Tue Apr 13 17:42:30 2021 detected ['Normal-RightSleep']
+patient9.txt
+Filename: HEARTBEAT_TEST/patient9.txt
+['Heart_Beat', 'Left_Sleep', 'Mid_Sleep', 'Right_Sleep']
+['121', '0', '0', '49']
+HeartBeat_TEST: Date- Tue Apr 13 17:42:31 2021 detected ['Snore-RightSleep']
+patient10.txt
+Filename: HEARTBEAT_TEST/patient10.txt
+['Heart_Beat', 'Left_Sleep', 'Mid_Sleep', 'Right_Sleep']
+['130', '10', '0', '0']
+HeartBeat_TEST: Date- Tue Apr 13 17:46:29 2021 detected ['Snore-LeftSleep']
+patient10.txt
+Filename: HEARTBEAT_TEST/patient10.txt
+['Heart_Beat', 'Left_Sleep', 'Mid_Sleep', 'Right_Sleep']
+['130', '10', '5', '0']
+HeartBeat_TEST: Date- Tue Apr 13 17:55:05 2021 detected ['Snore-LeftSleep']
+patient10.txt
+Filename: HEARTBEAT_TEST/patient10.txt
+['Heart_Beat', 'Left_Sleep', 'Mid_Sleep', 'Right_Sleep']
+['130', '10', '50', '5']
+HeartBeat_TEST: Date- Tue Apr 13 17:56:30 2021 detected ['Snore-MidSleep']
+patient10.txt
+Filename: HEARTBEAT_TEST/patient10.txt
+['Heart_Beat', 'Left_Sleep', 'Mid_Sleep', 'Right_Sleep']
+['10', '35', '90', '55']
+HeartBeat_TEST: Date- Tue Apr 13 17:58:09 2021 detected ['Danger-MidSleep']
